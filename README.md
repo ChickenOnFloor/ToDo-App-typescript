@@ -20,4 +20,5 @@ A simple ToDo app built with **TypeScript** that lets users add and delete tasks
 1. Clone the repository:
 
 ```bash
-[git clone https://github.com/ChickenOnFloor/ToDo-App-typescript.git](https://github.com/ChickenOnFloor/ToDo-App-typescript.git)
+git clone https://github.com/ChickenOnFloor/ToDo-App-typescript.git
+
