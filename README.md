@@ -1,5 +1,7 @@
 # 📝 ToDo App (TypeScript)
 
+[Live Preview](todotypescript12.netlify.app)
+
 A simple ToDo app built with **TypeScript** that lets users add and delete tasks directly in the browser — no backend or database used.
 
 ## 🚀 Features
